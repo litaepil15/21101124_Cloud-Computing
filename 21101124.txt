@@ -1,3 +1,4 @@
 nama       : alberta elita epil
 matakuliah : cloud computing
 kelas      : Q
+jam kul    : Rabu, 19:50 wita
