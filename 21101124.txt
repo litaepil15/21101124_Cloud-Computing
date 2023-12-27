@@ -1,2 +1,3 @@
 nama       : alberta elita epil
 matakuliah : cloud computing
+kelas      : Q
